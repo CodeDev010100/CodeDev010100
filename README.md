@@ -11,6 +11,3 @@
 - 🌱 I’m currently learning: Python
 - 🤔 I’m looking for help with: Programadores
 - 💬 Ask me about: Duvidas
-
-<div>
-<a href="https://discord.gg/wbPdxrS8ua" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
