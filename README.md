@@ -1,10 +1,5 @@
 ### Oi! Eu sou o CodeDev
 
-- 🔭 I’m currently working on: Aprender
-- 🌱 I’m currently learning: Python
-- 🤔 I’m looking for help with: Programadores
-- 💬 Ask me about: Duvidas
-
 <div align="center">
   <a href="https://github.com/CodeDev010100">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeDev010100&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,3 +17,8 @@
   
   <div> 
  <a href="https://discord.gg/wbPdxrS8ua" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+- 🔭 I’m currently working on: Aprender
+- 🌱 I’m currently learning: Python
+- 🤔 I’m looking for help with: Programadores
+- 💬 Ask me about: Duvidas
